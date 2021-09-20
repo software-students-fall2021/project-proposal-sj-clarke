@@ -1,5 +1,4 @@
 # Project Proposal
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
 
 Proposal by: Sarah-Jane Clarke, Gal Ben-Shushan, Elizabeth Jiranek
 
